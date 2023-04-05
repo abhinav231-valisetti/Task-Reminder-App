@@ -5,6 +5,6 @@ Python Desktop Application For Task Scheduling
 This is a Task Scheduling Desktop application intended to organize and manage daily Activities.
 
 # How To Use This
-Install Python Version > 3.6.0
-Run pip install tkinter
-Run python task_remainder_app.py
+1. Install Python Version > 3.6.0
+2. Run pip install tkinter
+3. Run python task_remainder_app.py
